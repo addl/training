@@ -1,0 +1,10 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<short-name>Lion-Tag</short-name>
+	<tag>
+		<name>LionTag</name>
+		<tag-class>addl.lion.training.tags.LionTag</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+</taglib>
